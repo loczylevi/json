@@ -1,0 +1,10 @@
+{
+    "persons": [
+        {
+            "name": "Kovács Péter",
+            "age": 30,
+            "city": "Budapest",
+            "occupation": "Mérnök"
+        }
+    ]
+}

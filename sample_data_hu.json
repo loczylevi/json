@@ -1,0 +1,28 @@
+{
+    "persons": [
+        {
+            "name": "Kovács Péter",
+            "age": 30,
+            "city": "Budapest",
+            "occupation": "Mérnök"
+        },
+        {
+            "name": "Nagy Anna",
+            "age": 25,
+            "city": "Szeged",
+            "occupation": "Orvos"
+        },
+        {
+            "name": "Szabó László",
+            "age": 40,
+            "city": "Debrecen",
+            "occupation": "Tanár"
+        },
+        {
+            "name": "Tóth Zsuzsa",
+            "age": 29,
+            "city": "Budapest",
+            "occupation": "Programozó"
+        }
+    ]
+}

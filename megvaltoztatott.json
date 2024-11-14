@@ -1,0 +1,28 @@
+{
+    "persons": [
+        {
+            "age": 30,
+            "city": "Budapest",
+            "name": "Kov\u00e1cs P\u00e9ter",
+            "occupation": "M\u00e9rn\u00f6k"
+        },
+        {
+            "age": 25,
+            "city": "Szeged",
+            "name": "SZABI INTERFACE",
+            "occupation": "Orvos"
+        },
+        {
+            "age": 40,
+            "city": "Debrecen",
+            "name": "Szab\u00f3 L\u00e1szl\u00f3",
+            "occupation": "Tan\u00e1r"
+        },
+        {
+            "age": 29,
+            "city": "Budapest",
+            "name": "T\u00f3th Zsuzsa",
+            "occupation": "Programoz\u00f3"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+ssh -T sis@192.168.1.116 'git clone https://github.com/loczylevi/json && gsettings set org.gnome.desktop.background picture-uri "file://$(pwd)/json/adamizmus.jpg" && gsettings set org.gnome.desktop.background picture-options "stretched"'

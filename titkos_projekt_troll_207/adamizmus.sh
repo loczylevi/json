@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # chmod u+x adamizmus.sh
+# sh adamizmus.sh
+# bash adamizmus.sh
 
 EV=`date +%Y` # marhára megbukunk
 HO=`date +%m`

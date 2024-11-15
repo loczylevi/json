@@ -20,7 +20,7 @@ done
 echo
 echo "Urunk" $EV "esztendejében" $HO "indusán és" $NA "szent napján elekrkezett az idő hogy isten császárunk Ádám királyunk regéjét és áldását hitét terjesszük minél szélesebb körökben... Az idő elérkezett!"
 echo "Ervin atyánk elhagy minket lelke itt marad közöttünk! Addig is szeressük és tiszteljük a RIP prokokolt!"
-echo "-Jelenések könyve 16:69 " $EV"."$HO"."$NA".\n"
+echo "-Jelenések könyve 16:69 " $EV"."$HO"."$NA"."
 echo "A vizuális ingercsokor bővitésére alkalmas képanyag eltarhálása (ellopása) a blaha.net.zanta.tv.hu domain-ről..."
 
 

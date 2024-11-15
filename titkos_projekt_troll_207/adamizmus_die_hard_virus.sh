@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# chmod u+x adamizmus_virus.sh
+# chmod u+x adamizmus_die_hard_virus.sh
 # sudo apt install sshpass
 
 

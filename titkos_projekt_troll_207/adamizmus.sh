@@ -30,7 +30,7 @@ utvonal="$(pwd)/adamizmus.jpg"
 gsettings set org.gnome.desktop.background picture-uri $utvonal
 gsettings set org.gnome.desktop.background picture-uri "file://$utvonal"
 gsettings set org.gnome.desktop.background picture-options "stretched"
-echo "blaha.net.zanta.tv.hu it kell legyél hogy elhidd..."
+echo "blaha.net.zanta.tv.hu it kell legyél hogy elhidd...\n"
 echo $utvonal
 echo "A háttérkép sikeresen beállítva, fálj útvonala:" $utvonal
 echo $utvonal
